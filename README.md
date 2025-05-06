@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/55-grupe-astronautas
+Site published at: https://vytautas99.github.io/astronautas/
 
 Design: ![alt text](./original-design.png)
 
@@ -82,7 +82,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Vytauytas: [Github](https://github.com/Vytautas99)
+Vytautas: [Github](https://github.com/Vytautas99)
 
 ## ⚠️ License
 
